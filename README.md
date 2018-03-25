@@ -1,4 +1,4 @@
-# suder-v1.0
+# SuDer
 Turkish News Collections for Text Categorization
 
 ## Unarchiving
